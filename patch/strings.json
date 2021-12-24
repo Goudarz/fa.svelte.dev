@@ -1,0 +1,20 @@
+{
+    "src/routes/index.svelte":{
+
+        "Cybernetically enhanced web apps":
+        "The translation template for the Svelte.dev site"
+    },
+
+    "src/routes/tutorial/[slug]/index.svelte": {
+
+        "sveltejs/svelte/tree/master/site/content/tutorial":
+        "sveltejs-translations/template.svelte.dev/tree/master/patch/content/tutorial"
+    },
+
+    "src/routes/docs/index.svelte": {
+
+        "<Docs {sections}/>":
+        "<Docs owner=\"sveltejs-translations\" project=\"template.svelte.dev\" path=\"/patch/content/\" edit_title=\"edit this chapter\" {sections}/>"
+
+    }
+}
